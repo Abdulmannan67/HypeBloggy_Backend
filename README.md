@@ -12,7 +12,7 @@ Users can easily create, edit and delete blogs. The app allows for easy organiza
 
 ## How to set up and run the application Backend 
 
-1. Download code and open terminal in folder and run "npm init" so that all dependencies like node_modules and package-lock.json download.
+1. Download code and open terminal in folder and run "npm install" so that all dependencies like node_modules and package-lock.json download.
 
 2. Add your MongoDB URL in db.js file.
 
